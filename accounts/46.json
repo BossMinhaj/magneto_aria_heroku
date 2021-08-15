@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "diologue-box",
+  "private_key_id": "0e9a50d8a2277905af2cc1bf36cfb5b50633f3c3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCxt489JmnbyvIe\nIqamNJsz4Nrmip0fEZUod1iOQkUoGHYQ5lGLjL/hRjDUDE3ZLSyyKo/17nbZ9Jl2\n2RdK12iXVoPD/mr1+QUg333TZNKL3zVqmOYvpLlfa8s++lHspb4+zg23zZuS2p1O\nI/9WFYry9YH/s7CzI3az5WR2NUQAtCaenQgTwwLZoJUC2Cuu1s9eLLUY/WOk2O/b\ndfx2fem9kSZbX/OLWpjZoqwoNiYIVldPipewq92kVZ9iBUfNr6Kj5IB/JTf7X2mD\n8mB04zF/VAORDQtcWFaZ2BJ2jZ97tjpsLKHz+LmRUW01tgyW25/64R0pb3XZZYQD\nSXCgu8KtAgMBAAECggEAHVWlD20yjozwi7BhDTDESJsuTt0lA86ZbhlLFQpT04M8\nI9x8q9oDBzqYjzvrsrQ9+zfC1Q+0bxQsq704Vsp5MXfenqC1g54D7nHtmVH8Xgmt\nTcfowQcB8UIABch4cuVF4qSNB6Co9CPhUNdoy4sZSTLkrzI4Mc2iB55PB6MRs0LC\nksG1QDe3c4oBmBXqxnF2ZY+fjbjRU4zyL3wXLDk7XNfXySTMEeUYZRN5kYrlIvh3\nyerdzi3/7E++idUQBvrBit/pPpuYsFia/qOiaKrqRFv7M6TehQfSG4XxJuuFWmOU\nKCKIERM+rhrDlbL370S+pAzLQ8BWBnQjjVP0DgotWQKBgQDr0paWdmBAVnr5kBGo\nkPP393Zj4ndkxj2TiWaMTL2oyL28m/XbScD2ZkYxeP0A8HL6PSW8m/IBsng7TJvQ\nyjxWIvYcKKn/bV0i9NCDh65FB3suUjGnbCIHupJAGL06mG6GGT6A08PLygui6LB+\n+BUbC88EhcsFheMvOaF+fzkH5QKBgQDA7Dz3pGc18XSb6d5K7Y6TJr7npFrXdwB2\ng2IQ5h0Bg9/vQ8+ouC47G7c+AGZ5/PL+c2j8ZmFQmVk5/nRoQ21q6OpduRouqISy\nN2RWGFiO/FQdBhtq5e1586QcKx6zTaSon1/53QVZwK7sLw+PbMqIWLG2v6i6NnTo\nPnKaKb2TKQKBgDGVsfwpH8vnYyweUtgywlmdOtN9xsT1ufTPqzRM3oQi0WJbGLLn\nKx+kGZZFbk1IQaTEPq8NyzD4KbeuQAUCwPULnNwG4NfIUxEKkN1XJhl1nTz8I1yk\nq/McE6xOh1tOuc6QeEf2PvEWpqO2cYYA+88YCItW5n1ezYocgAxtC7zRAoGAcgoz\nb9/K8uQsHg38zSXn5aw9pQhOepdpuqSnT333H3Io6XKYSg+1pFMZ2pi5+to/eZIX\nOTv7wn0jdViozwksoMnV4FkO1Q3ggsijkxEJKFyYDCAUDPiljDUtiUkj+LGo59Ru\nE3FHPGrd+9dFx25zum1Tf8eDoa+XI8HmVKLf4SECgYEAyVHzSrlHIfHD7wQKPJTq\nP3c7QwrYPstrJDRTsOPcILIz7zifgsT/qawDlRx2q9Rl+OrPY5eLdwqyvD44FV57\n8luLDhRhQQzWMQO1O1jrpy7tMn8x1UdKnL0qpWjDQN3acNe0MYpW7UlPf5x8U5bQ\nRoKirB6bLwecReglhVQjhwk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-p5u8xz1-eftof19f5jdtv-f1nf@diologue-box.iam.gserviceaccount.com",
+  "client_id": "113406502882759023609",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-p5u8xz1-eftof19f5jdtv-f1nf%40diologue-box.iam.gserviceaccount.com"
+}
